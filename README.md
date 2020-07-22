@@ -18,7 +18,7 @@ After graph and problem description, the Bellman-Ford algorithm starts. The prog
 0 2
 ```
 <img src="http://www.ochnik.me/static/example-graph.png" align="center" height="50%" width="50%"/>
-<br/><i>A graph used in example input</i>
+<i>A graph used in example input</i>
 
 ### Output:
 ```
